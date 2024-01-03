@@ -51,17 +51,17 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- 📱 &emsp; Enjoy to do programming and UxUi designing <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 🎨 &emsp; Practiced UxUi design in [figma athiruj_k](figma.com/@athiruj_k)<br/><br/>
- 📧 &emsp; Reach me anytime: athirujkaewseesuk@gmail.com<br/><br/>
- 📚 &emsp; Now Learning in Flutter ,Animation design, MVVM
+ 📱 Enjoy to do programming and UxUi designing <br/><br/>
+ ❤️ Love to writing code and learning new features<br/><br/>
+ 🎨 Practiced UxUi design in [figma athiruj_k](figma.com/@athiruj_k)<br/><br/>
+ 📧 Reach me anytime: athirujkaewseesuk@gmail.com<br/><br/>
+ 📚 Now Learning in Flutter ,Animation design, MVVM
 
 </p>
 <br/>
 <br/>
 
- 💻 &emsp; My Website for show example my flutter package <br/><br/>
+ 💻 My Website for show example my flutter package <br/><br/>
  - website [colorhuentint.web.app](https://colorhuentint.web.app/#/palette)<br/><br/>
  - package [color_hue_n_tint 1.0.2](https://github.com/athiruj/color_scaling/tree/master)
 

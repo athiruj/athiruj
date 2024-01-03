@@ -1,4 +1,4 @@
-### Hi there 👋<!--
+<!--
 <h2 align="center">
   Welcome to Al Siam World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -100,5 +100,3 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 <br/>
-
--->

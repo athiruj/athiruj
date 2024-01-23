@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="alsiam"/>
  </a>
   -->
- <a href="figma.com/@athiruj_k" target="_blank">
+ <a href="https://figma.com/@athiruj_k" target="_blank">
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="figma" />
  </a> 
   <!--

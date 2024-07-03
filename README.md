@@ -102,3 +102,5 @@
 <!--![React Query](https://img.shields.io/badge/-React_Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)-->
 
 <br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=athiruj&theme=onestar)](https://github.com/ryo-ma/github-profile-trophy)

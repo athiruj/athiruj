@@ -55,7 +55,6 @@
  ❤️ Love to writing code and learning new features<br/><br/>
  🎨 Practiced UxUi design in [figma athiruj_k](figma.com/@athiruj_k)<br/><br/>
  📧 Reach me anytime: athirujkaewseesuk@gmail.com<br/><br/>
- 📚 Now Learning in Flutter ,Animation design, MVVM
 
 </p>
 <br/>

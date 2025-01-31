@@ -21,22 +21,26 @@
   </a> 
 </p>
 <!-- About Section -->
- # About me
- 
+
+# About me
+
 * 📚 I am studying 
   - Computer Science at Kasetsart University.
   - [42 Bangkok](https://www.42bangkok.com/) at King Mongkut’s Institute of Technology Ladkrabang.<br/><br/>
-* 📱 Enjoy to do programming and UxUi designing
-<br/>
-* 💪 strong background in C programming based on project-based learning.
-<br/>
-* 🎨 interested in UX/UI design and highly experienced in [Figma athiruj_k](figma.com/@athiruj_k)
-<br/>
+
+* 📱 Enjoy to do programming and UxUi designing.<br/><br/>
+
+* 💪 strong background in C programming based on project-based learning.<br/><br/>
+
+* 🎨 interested in UX/UI design and highly experienced in [Figma athiruj_k](figma.com/@athiruj_k).<br/><br/>
+
 * 📧 Reach me anytime: athirujkaewseesuk@gmail.com
 
 <br/>
+<br/>
 
-[![athiruj's GitHub stats](https://github-readme-stats.vercel.app/api?username=athiruj&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=nightowl)](https://github.com/athiruj?tab=repositories)[![athiruj's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athiruj&layout=compact&hide_border=true&theme=nightowl)](https://github.com/athiruj?tab=repositories) 
+| [![athiruj's GitHub stats](https://github-readme-stats.vercel.app/api?username=athiruj&count_private=true&show_icons=true&hide=issues&hide_border=true&theme=nightowl)](https://github.com/athiruj?tab=repositories) | [![athiruj's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=athiruj&layout=compact&hide_border=true&theme=nightowl)](https://github.com/athiruj?tab=repositories) 
+|:-:|:-:|
  <!-- 💻 My Website for show example my flutter package <br/><br/>
  - website [colorhuentint.web.app](https://colorhuentint.web.app/#/palette)<br/><br/>
  - package [color_hue_n_tint 1.0.2](https://github.com/athiruj/color_scaling/tree/master) -->

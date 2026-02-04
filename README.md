@@ -26,11 +26,8 @@
 
 * 📚 I am studying 
   - Computer Science at Kasetsart University.
-  - [42 Bangkok](https://www.42bangkok.com/) at King Mongkut’s Institute of Technology Ladkrabang.<br/><br/>
 
 * 📱 Enjoy to do programming and UxUi designing.<br/><br/>
-
-* 💪 strong background in C programming based on project-based learning.<br/><br/>
 
 * 🎨 interested in UX/UI design and highly experienced in [Figma athiruj_k](figma.com/@athiruj_k).<br/><br/>
 
